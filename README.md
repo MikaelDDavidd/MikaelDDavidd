@@ -1,28 +1,28 @@
-## Bem-vindo(a) ao meu perfil do GitHub😁
+# 💫 About Me:
+👋 Hi, I’m Mikael David! I’m a passionate developer specializing in Flutter and web technologies. I love bringing ideas to life through code and creating engaging user experiences.<br>🔭 I’m currently working on an audio and sticker app using Flutter, blending creativity with functionality.<br>👯 I’m looking to collaborate on mobile and web projects that push boundaries and solve real-world problems.<br>🤝 I’m looking for help with exploring new web technologies like Vue, Node.js, and Tailwind CSS.<br>🌱 I’m currently learning advanced web development with JavaScript, HTML5, CSS3, and expanding into backend tech like PHP.<br>💬 Ask me about Flutter development, UI/UX design, and integrating creative features into mobile apps.<br>⚡ Fun fact: I love turning complex ideas into user-friendly applications—whether it’s a unique audio experience or a fun sticker app!<br>
 
- <div>
-   <a href="https://github.com/MikaelDDavidd">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelDDavidd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-  <img align="center" alt="ANDROIDSTUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750115522003337298/1031226825986289684/a7a8d06c754cfbbbc37e64cb118c513c.gif">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/kael_davidd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mikaeldavidlopes.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mikael-david-813975191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MikaelDDavidd/MikaelDDavidd/blob/output/github-contribution-grid-snake.svg)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61564822349005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kael_davidd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikael-david-813975191/) 
 
-</div>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MikaelDDavidd&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MikaelDDavidd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mikaeldavid) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
