@@ -11,9 +11,6 @@
 # 🐍 GitHub Commits:
 ![Snake animation](https://github.com/MikaelDDavidd/MikaelDDavidd/blob/output/github-contribution-grid-snake.svg)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false)<br/>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MikaelDDavidd&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
