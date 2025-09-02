@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Developer** specializing in Flutter and modern web
 - ⚡ **Fun fact:** I love turning complex ideas into user-friendly applications
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mikaeldavidlopes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kael_davidd/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564822349005)
@@ -56,10 +56,11 @@ I'm a passionate **Full-Stack Developer** specializing in Flutter and modern web
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/MikaelDDavidd">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
 
 </div>
 
