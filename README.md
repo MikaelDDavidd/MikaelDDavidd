@@ -57,7 +57,6 @@ I'm a passionate **Full-Stack Developer** specializing in Flutter and modern web
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
