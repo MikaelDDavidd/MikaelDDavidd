@@ -80,7 +80,7 @@ Building solo means I always have bandwidth for the right project — especially
 
 <div align="center">
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-F06000?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mikaeldavid)
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-F06000?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d90aa6b7d1a3a41)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-502000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
 &nbsp;
