@@ -1,96 +1,99 @@
-# Hi there, I'm Mikael David 👋
-
-## 💫 About Me
-I'm a passionate **Full-Stack Developer** specializing in Flutter and modern web technologies, with a focus on creating engaging user experiences and solving real-world problems through code.
-
-- 🔭 **Currently building:** An innovative audio and sticker app using Flutter & Firebase
-- 🌱 **Learning:** Advanced Node.js, Vue.js, and cloud infrastructure with Docker
-- 💡 **Passionate about:** Mobile development, UI/UX design, and scalable backend solutions
-- 🎯 **Goal for 2025:** Contributing more to open-source projects and mastering DevOps practices
-- ⚡ **Fun fact:** I love turning complex ideas into user-friendly applications
-
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kael_davidd/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564822349005)
-
-## 💻 Tech Stack
-
-### **Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### **Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### **Database & Cloud**
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### **Automation & Integration**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<a href="https://github.com/MikaelDDavidd">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MikaelDDavidd&theme=dark&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</a>
+<img src="./assets/banner.png" alt="Mikael David — Code. Coffee. Repeat." width="100%" />
+
+### Brazilian fullstack dev — building products solo, one cup at a time. ☕🦊
+
+[![Profile views](https://komarev.com/ghpvc/?username=MikaelDDavidd&label=Profile%20views&color=F06000&style=flat-square)](https://github.com/MikaelDDavidd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-502000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
+[![Email](https://img.shields.io/badge/Email-Say_hi-D04000?style=flat-square&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MikaelDDavidd&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikaelDDavidd&theme=react-dark&hide_border=true)
+## 🎯 Currently building
 
-## 🌟 Open Source Contributions
-<!-- List your open source contributions here when you have them -->
-- Looking forward to contributing to impactful open-source projects
-- Interested in Flutter, Node.js, and web development communities
+Six products in active development — most solo, all running in production or close to it.
 
-## 💼 What I'm Looking For
-- 👯 **Collaborations:** Mobile and web projects that push boundaries
-- 🤝 **Learning:** Best practices in Vue.js, Node.js, and cloud architecture
-- 💬 **Ask me about:** Flutter development, UI/UX design, and mobile app architecture
-- 📧 **Contact:** Open to freelance opportunities and full-time positions
+| Product | What it does | Stack |
+|---|---|---|
+| 🌱 **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
+| 🎲 **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
+| 🦉 **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
+| 🐣 **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
+| 📱 **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
+| 💰 **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+
+## 🛠 Tech I work with
+
+**Mobile** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=502000)
+![Next.js](https://img.shields.io/badge/Next.js-502000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend** &nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-502000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**DevOps & Tools** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=502000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MikaelDDavidd&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F0E0D0&title_color=502000&text_color=502000&icon_color=F06000&border_color=705040" alt="GitHub Stats" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=MikaelDDavidd&hide_border=false&background=F0E0D0&stroke=705040&ring=F06000&fire=D04000&currStreakLabel=502000&sideLabels=502000&currStreakNum=502000&sideNums=502000&dates=705040" alt="GitHub Streak" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&layout=compact&hide_border=false&bg_color=F0E0D0&title_color=502000&text_color=502000&border_color=705040&langs_count=8" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+## ☕ Open for freelance work
+
+Building solo means I always have bandwidth for the right project — especially **Flutter apps**, **NestJS APIs**, and **Brazilian-market SaaS**.
+
+<div align="center">
+
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-F06000?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mikaeldavid)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-502000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
+&nbsp;
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-D04000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/mikaeldavid)
+
+</div>
 
 ---
 
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=MikaelDDavidd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mikaeldavid)
+> *"Building warm tools for real problems."*
+
+<sub>Code. Coffee. Repeat. 🦊</sub>
 
 </div>
