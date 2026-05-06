@@ -86,6 +86,14 @@ Six products in active development — most solo, all running in production or c
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelDDavidd&bg_color=F0E0D0&color=502000&line=F06000&point=D04000&area=true&area_color=F08040&hide_border=true" alt="Contribution Graph" width="95%" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-light.svg" width="95%" />
+</picture>
+
 </div>
 
 ---
