@@ -29,52 +29,46 @@ Six products in active development — most solo, all running in production or c
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23F08040&width=24" align="center" /> Tech I work with
 
-<div align="center">
-
-#### Mobile
-<img src="https://api.iconify.design/devicon/flutter.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/dart.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/swift.svg" width="32" />
-
-#### Frontend
-<img src="https://api.iconify.design/devicon/react.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/nextjs.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/typescript.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/tailwindcss.svg" width="32" />
-
-#### Backend
-<img src="https://api.iconify.design/devicon/nestjs.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/nodejs.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/express.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/python.svg" width="32" />
-
-#### Data
-<img src="https://api.iconify.design/devicon/postgresql.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/redis.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/prisma.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/supabase.svg" width="32" />
-
-#### DevOps
-<img src="https://api.iconify.design/devicon/docker.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/gitlab.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/linux.svg" width="32" />
-&nbsp;
-<img src="https://api.iconify.design/devicon/figma.svg" width="32" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top"><b>Mobile</b></td>
+    <td align="center" valign="top"><b>Frontend</b></td>
+    <td align="center" valign="top"><b>Backend</b></td>
+    <td align="center" valign="top"><b>Data</b></td>
+    <td align="center" valign="top"><b>DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://api.iconify.design/devicon/flutter.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/dart.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/swift.svg" width="28" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://api.iconify.design/devicon/react.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/nextjs.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/typescript.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="28" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://api.iconify.design/devicon/nestjs.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/nodejs.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/express.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/python.svg" width="28" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://api.iconify.design/devicon/postgresql.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/redis.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/prisma.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/supabase.svg" width="28" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://api.iconify.design/devicon/docker.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/gitlab.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/linux.svg" width="28" />
+      <img src="https://api.iconify.design/devicon/figma.svg" width="28" />
+    </td>
+  </tr>
+</table>
 
 ---
 
