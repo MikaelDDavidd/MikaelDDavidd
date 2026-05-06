@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="Mikael David — Code. Coffee. Repeat." width="100%" />
 
-### Brazilian fullstack dev — building products solo, one cup at a time. ☕🦊
+### Brazilian fullstack dev — building products solo, one cup at a time. <img src="https://api.iconify.design/lucide/coffee.svg?color=%23F06000&width=20" align="center" /> <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23F06000&width=20" align="center" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=MikaelDDavidd&label=Profile%20views&color=F06000&style=flat-square)](https://github.com/MikaelDDavidd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-502000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
@@ -12,22 +12,22 @@
 
 ---
 
-## 🎯 Currently building
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23502000&width=24" align="center" /> Currently building
 
 Six products in active development — most solo, all running in production or close to it.
 
 | Product | What it does | Stack |
 |---|---|---|
-| 🌱 **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
-| 🎲 **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
-| 🦉 **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
-| 🐣 **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
-| 📱 **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
-| 💰 **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23502000&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
+| <img src="https://api.iconify.design/lucide/dice-5.svg?color=%23502000&width=18" align="center" /> **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
+| <img src="https://api.iconify.design/lucide/bird.svg?color=%23502000&width=18" align="center" /> **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
+| <img src="https://api.iconify.design/lucide/egg.svg?color=%23502000&width=18" align="center" /> **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23502000&width=18" align="center" /> **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
+| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23502000&width=18" align="center" /> **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
 
 ---
 
-## 🛠 Tech I work with
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23502000&width=24" align="center" /> Tech I work with
 
 **Mobile** &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -60,7 +60,7 @@ Six products in active development — most solo, all running in production or c
 
 ---
 
-## 📊 GitHub stats
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23502000&width=24" align="center" /> GitHub stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Six products in active development — most solo, all running in production or c
 
 ---
 
-## ☕ Open for freelance work
+## <img src="https://api.iconify.design/lucide/coffee.svg?color=%23502000&width=24" align="center" /> Open for freelance work
 
 Building solo means I always have bandwidth for the right project — especially **Flutter apps**, **NestJS APIs**, and **Brazilian-market SaaS**.
 
@@ -94,6 +94,6 @@ Building solo means I always have bandwidth for the right project — especially
 
 > *"Building warm tools for real problems."*
 
-<sub>Code. Coffee. Repeat. 🦊</sub>
+<sub>Code. Coffee. Repeat. <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23F06000&width=16" align="center" /></sub>
 
 </div>
