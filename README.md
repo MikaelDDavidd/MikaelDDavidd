@@ -89,9 +89,9 @@ Six products in active development — most solo, all running in production or c
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/MikaelDDavidd/MikaelDDavidd/output/snake-light.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/MikaelDDavidd/MikaelDDavidd@output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MikaelDDavidd/MikaelDDavidd@output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://cdn.jsdelivr.net/gh/MikaelDDavidd/MikaelDDavidd@output/snake-light.svg" width="95%" />
 </picture>
 
 </div>
