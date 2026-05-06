@@ -12,55 +12,87 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23502000&width=24" align="center" /> Currently building
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23F08040&width=24" align="center" /> Currently building
 
 Six products in active development — most solo, all running in production or close to it.
 
 | Product | What it does | Stack |
 |---|---|---|
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23502000&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
-| <img src="https://api.iconify.design/lucide/dice-5.svg?color=%23502000&width=18" align="center" /> **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
-| <img src="https://api.iconify.design/lucide/bird.svg?color=%23502000&width=18" align="center" /> **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
-| <img src="https://api.iconify.design/lucide/egg.svg?color=%23502000&width=18" align="center" /> **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
-| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23502000&width=18" align="center" /> **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
-| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23502000&width=18" align="center" /> **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
+| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23F08040&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
+| <img src="https://api.iconify.design/lucide/dice-5.svg?color=%23F08040&width=18" align="center" /> **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
+| <img src="https://api.iconify.design/lucide/bird.svg?color=%23F08040&width=18" align="center" /> **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
+| <img src="https://api.iconify.design/lucide/egg.svg?color=%23F08040&width=18" align="center" /> **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23F08040&width=18" align="center" /> **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
+| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23F08040&width=18" align="center" /> **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
 
 ---
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23502000&width=24" align="center" /> Tech I work with
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23F08040&width=24" align="center" /> Tech I work with
 
-**Mobile** &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=502000)
-![Next.js](https://img.shields.io/badge/Next.js-502000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend** &nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-502000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Data** &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**DevOps & Tools** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=502000)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://api.iconify.design/devicon/flutter.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/dart.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/swift.svg" width="36" align="center" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://api.iconify.design/devicon/react.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/nextjs.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/typescript.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="36" align="center" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://api.iconify.design/devicon/nestjs.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/nodejs.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/express.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/python.svg" width="36" align="center" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://api.iconify.design/devicon/postgresql.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/redis.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/prisma.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/supabase.svg" width="36" align="center" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://api.iconify.design/devicon/docker.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/gitlab.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/linux.svg" width="36" align="center" />
+      &nbsp;
+      <img src="https://api.iconify.design/devicon/figma.svg" width="36" align="center" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23502000&width=24" align="center" /> GitHub stats
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23F08040&width=24" align="center" /> GitHub stats
 
 <div align="center">
 
@@ -74,7 +106,7 @@ Six products in active development — most solo, all running in production or c
 
 ---
 
-## <img src="https://api.iconify.design/lucide/coffee.svg?color=%23502000&width=24" align="center" /> Open for freelance work
+## <img src="https://api.iconify.design/lucide/coffee.svg?color=%23F08040&width=24" align="center" /> Open for freelance work
 
 Building solo means I always have bandwidth for the right project — especially **Flutter apps**, **NestJS APIs**, and **Brazilian-market SaaS**.
 
