@@ -76,11 +76,15 @@ Six products in active development — most solo, all running in production or c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MikaelDDavidd&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F0E0D0&title_color=502000&text_color=502000&icon_color=F06000&border_color=705040" alt="GitHub Stats" height="170" />
-
 <img src="https://streak-stats.demolab.com?user=MikaelDDavidd&hide_border=false&background=F0E0D0&stroke=705040&ring=F06000&fire=D04000&currStreakLabel=502000&sideLabels=502000&currStreakNum=502000&sideNums=502000&dates=705040" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelDDavidd&layout=compact&hide_border=false&bg_color=F0E0D0&title_color=502000&text_color=502000&border_color=705040&langs_count=8" alt="Top Languages" height="170" />
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MikaelDDavidd&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Followers,Repositories,Stars,Issues,PullRequest,MultipleLang" alt="GitHub Trophies" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikaelDDavidd&bg_color=F0E0D0&color=502000&line=F06000&point=D04000&area=true&area_color=F08040&hide_border=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
