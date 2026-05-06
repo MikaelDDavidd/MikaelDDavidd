@@ -29,66 +29,52 @@ Six products in active development — most solo, all running in production or c
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23F08040&width=24" align="center" /> Tech I work with
 
-<table>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <img src="https://api.iconify.design/devicon/flutter.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/dart.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/swift.svg" width="36" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://api.iconify.design/devicon/react.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/nextjs.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/typescript.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/tailwindcss.svg" width="36" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://api.iconify.design/devicon/nestjs.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/nodejs.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/express.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/python.svg" width="36" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img src="https://api.iconify.design/devicon/postgresql.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/redis.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/prisma.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/supabase.svg" width="36" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://api.iconify.design/devicon/docker.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/gitlab.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/linux.svg" width="36" align="center" />
-      &nbsp;
-      <img src="https://api.iconify.design/devicon/figma.svg" width="36" align="center" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+#### Mobile
+<img src="https://api.iconify.design/devicon/flutter.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/dart.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/swift.svg" width="44" />
+
+#### Frontend
+<img src="https://api.iconify.design/devicon/react.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/nextjs.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/typescript.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/tailwindcss.svg" width="44" />
+
+#### Backend
+<img src="https://api.iconify.design/devicon/nestjs.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/nodejs.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/express.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/python.svg" width="44" />
+
+#### Data
+<img src="https://api.iconify.design/devicon/postgresql.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/redis.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/prisma.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/supabase.svg" width="44" />
+
+#### DevOps
+<img src="https://api.iconify.design/devicon/docker.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/gitlab.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/linux.svg" width="44" />
+&nbsp;
+<img src="https://api.iconify.design/devicon/figma.svg" width="44" />
+
+</div>
 
 ---
 
