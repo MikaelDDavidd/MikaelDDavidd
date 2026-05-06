@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="Mikael David — Code. Coffee. Repeat." width="100%" />
 
-### Brazilian fullstack dev — building products solo, one cup at a time. <img src="https://api.iconify.design/lucide/coffee.svg?color=%23F06000&width=20" align="center" /> <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23F06000&width=20" align="center" />
+### Brazilian fullstack dev — building products solo, one cup at a time. <img src="https://api.iconify.design/lucide/coffee.svg?color=%23D04000&width=20" align="center" /> <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23D04000&width=20" align="center" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=MikaelDDavidd&label=Profile%20views&color=F06000&style=flat-square)](https://github.com/MikaelDDavidd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-502000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
@@ -94,6 +94,6 @@ Building solo means I always have bandwidth for the right project — especially
 
 > *"Building warm tools for real problems."*
 
-<sub>Code. Coffee. Repeat. <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23F06000&width=16" align="center" /></sub>
+<sub>Code. Coffee. Repeat. <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23D04000&width=16" align="center" /></sub>
 
 </div>
