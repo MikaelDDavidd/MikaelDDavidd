@@ -32,47 +32,47 @@ Six products in active development — most solo, all running in production or c
 <div align="center">
 
 #### Mobile
-<img src="https://api.iconify.design/devicon/flutter.svg" width="44" />
+<img src="https://api.iconify.design/devicon/flutter.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/dart.svg" width="44" />
+<img src="https://api.iconify.design/devicon/dart.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/swift.svg" width="44" />
+<img src="https://api.iconify.design/devicon/swift.svg" width="32" />
 
 #### Frontend
-<img src="https://api.iconify.design/devicon/react.svg" width="44" />
+<img src="https://api.iconify.design/devicon/react.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/nextjs.svg" width="44" />
+<img src="https://api.iconify.design/devicon/nextjs.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/typescript.svg" width="44" />
+<img src="https://api.iconify.design/devicon/typescript.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/tailwindcss.svg" width="44" />
+<img src="https://api.iconify.design/devicon/tailwindcss.svg" width="32" />
 
 #### Backend
-<img src="https://api.iconify.design/devicon/nestjs.svg" width="44" />
+<img src="https://api.iconify.design/devicon/nestjs.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/nodejs.svg" width="44" />
+<img src="https://api.iconify.design/devicon/nodejs.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/express.svg" width="44" />
+<img src="https://api.iconify.design/devicon/express.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/python.svg" width="44" />
+<img src="https://api.iconify.design/devicon/python.svg" width="32" />
 
 #### Data
-<img src="https://api.iconify.design/devicon/postgresql.svg" width="44" />
+<img src="https://api.iconify.design/devicon/postgresql.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/redis.svg" width="44" />
+<img src="https://api.iconify.design/devicon/redis.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/prisma.svg" width="44" />
+<img src="https://api.iconify.design/devicon/prisma.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/supabase.svg" width="44" />
+<img src="https://api.iconify.design/devicon/supabase.svg" width="32" />
 
 #### DevOps
-<img src="https://api.iconify.design/devicon/docker.svg" width="44" />
+<img src="https://api.iconify.design/devicon/docker.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/gitlab.svg" width="44" />
+<img src="https://api.iconify.design/devicon/gitlab.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/linux.svg" width="44" />
+<img src="https://api.iconify.design/devicon/linux.svg" width="32" />
 &nbsp;
-<img src="https://api.iconify.design/devicon/figma.svg" width="44" />
+<img src="https://api.iconify.design/devicon/figma.svg" width="32" />
 
 </div>
 
