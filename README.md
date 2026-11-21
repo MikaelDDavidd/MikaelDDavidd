@@ -26,7 +26,7 @@ I ship products end to end, from the database to the App Store. Live sites and d
 | <img src="https://api.iconify.design/lucide/chef-hat.svg?color=%23F08040&width=18" align="center" /> **[Rango](https://rango-receitas.netlify.app)** | AI recipe app on the App Store and Google Play | Flutter |
 | <img src="https://api.iconify.design/lucide/shopping-basket.svg?color=%23F08040&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Pantry restocking app that reads NFC-e receipts, offline-first with sync (open source) | Flutter · Riverpod |
 | <img src="https://api.iconify.design/lucide/swords.svg?color=%23F08040&width=18" align="center" /> **[Wardline](https://wardline.mikaeldavid.dev)** | League of Legends match assistant, in development | Tauri · React · Rust |
-| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23F08040&width=18" align="center" /> **[Memes Pack BR](https://memes.mikaeldavid.dev)** | WhatsApp sticker and meme audio app, 500K+ downloads across versions | Flutter · NestJS |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23F08040&width=18" align="center" /> **[Memes Pack BR](https://memes.mikaeldavid.dev)** | WhatsApp sticker and meme audio app, 800K+ downloads | Flutter · NestJS |
 
 ---
 
