@@ -5,6 +5,7 @@
 ### Brazilian fullstack dev — building products solo, one cup at a time. <img src="https://api.iconify.design/lucide/coffee.svg?color=%23F08040&width=20" align="center" /> <img src="https://api.iconify.design/fluent-emoji-high-contrast/fox.svg?color=%23F08040&width=20" align="center" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=MikaelDDavidd&label=Profile%20views&color=F06000&style=flat-square)](https://github.com/MikaelDDavidd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mikaeldavid.dev-F06000?style=flat-square)](https://mikaeldavid.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-502000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-david-813975191/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D04000?style=flat-square&logo=gmail&logoColor=white)](mailto:mikaeldavidlopes@gmail.com)
 
@@ -12,18 +13,20 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23F08040&width=24" align="center" /> Currently building
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23F08040&width=24" align="center" /> What I build
 
-Six products in active development — most solo, all running in production or close to it.
+I ship products end to end, from the database to the App Store. Live sites and details: **[mikaeldavid.dev](https://mikaeldavid.dev)**
 
 | Product | What it does | Stack |
 |---|---|---|
-| <img src="https://api.iconify.design/lucide/sprout.svg?color=%23F08040&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Smart pantry tracker — 100% offline, no accounts | Flutter · Dart · sqflite |
-| <img src="https://api.iconify.design/lucide/dice-5.svg?color=%23F08040&width=18" align="center" /> **[OddNow](https://odd-now.com)** | Real-time sports betting odds comparison SaaS | NestJS · React · Playwright · PostgreSQL |
-| <img src="https://api.iconify.design/lucide/bird.svg?color=%23F08040&width=18" align="center" /> **[Inpify](https://github.com/MikaelDDavidd/coruja)** | SaaS for monitoring Brazilian INPI patent & trademark processes | NestJS · Flutter · Prisma · BullMQ |
-| <img src="https://api.iconify.design/lucide/egg.svg?color=%23F08040&width=18" align="center" /> **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | macOS menu-bar status panel for 17+ AI coding agents | Swift · SwiftUI · AppKit |
-| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23F08040&width=18" align="center" /> **[Stickers & Memes](https://github.com/MikaelDDavidd/stickers_and_memes)** | Published WhatsApp sticker & meme audio app | Flutter · GetX · NestJS API |
-| <img src="https://api.iconify.design/lucide/wallet.svg?color=%23F08040&width=18" align="center" /> **[DASHO](https://github.com/MikaelDDavidd/dasho)** | Personal finance dashboard with AI receipt OCR | Flutter · GetX · NestJS |
+| <img src="https://api.iconify.design/lucide/tractor.svg?color=%23F08040&width=18" align="center" /> **[Curral Tech](https://curraltech.com)** | Livestock management platform I built end to end: offline-first app, API, admin panel and RFID over Bluetooth | Flutter · Node.js · PostgreSQL |
+| <img src="https://api.iconify.design/lucide/dice-5.svg?color=%23F08040&width=18" align="center" /> **[OddNow](https://oddnow.mikaeldavid.dev)** | Real-time odds comparison SaaS, live with subscriptions | React · NestJS · PostgreSQL · Socket.IO |
+| <img src="https://api.iconify.design/lucide/egg.svg?color=%23F08040&width=18" align="center" /> **[Hatchling](https://github.com/MikaelDDavidd/hatchling)** | Coding agents in the macOS notch, with an iPhone companion (open source) | Swift · SwiftUI |
+| <img src="https://api.iconify.design/lucide/gauge.svg?color=%23F08040&width=18" align="center" /> **[bottleneck](https://github.com/MikaelDDavidd/bottleneck)** | Claude Code skill that finds the real performance bottleneck of your app (open source) | Agent skills · Python · k6 |
+| <img src="https://api.iconify.design/lucide/chef-hat.svg?color=%23F08040&width=18" align="center" /> **[Rango](https://rango-receitas.netlify.app)** | AI recipe app on the App Store and Google Play | Flutter |
+| <img src="https://api.iconify.design/lucide/shopping-basket.svg?color=%23F08040&width=18" align="center" /> **[Repooor](https://github.com/MikaelDDavidd/repooor)** | Pantry restocking app that reads NFC-e receipts, offline-first with sync (open source) | Flutter · Riverpod |
+| <img src="https://api.iconify.design/lucide/swords.svg?color=%23F08040&width=18" align="center" /> **[Wardline](https://wardline.mikaeldavid.dev)** | League of Legends match assistant, in development | Tauri · React · Rust |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23F08040&width=18" align="center" /> **[Memes Pack BR](https://memes.mikaeldavid.dev)** | WhatsApp sticker and meme audio app, 500K+ downloads across versions | Flutter · NestJS |
 
 ---
 
